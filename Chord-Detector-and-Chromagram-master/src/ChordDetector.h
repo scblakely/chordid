@@ -27,6 +27,7 @@
 #define CHORDDETECT_H
 
 #include <vector>
+#include <string>
 
 //=======================================================================
 /** A class for estimating chord labels from chromagram input */
